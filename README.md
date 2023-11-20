@@ -43,6 +43,9 @@ Este repositorio, denominado "Summar-ia," contiene un código en Python que comb
 - `google-cloud-speech` (para Google Cloud Speech-to-Text): `pip install google-cloud-speech`
 - `openai` (para OpenAI): `pip install openai`
 
+**Licencia:**
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
 **Notas Importantes:**
 - Se debe proporcionar una clave de API válida de OpenAI en el código (`api_key="API_KEY"`) para utilizar la API de OpenAI.
 - El archivo de clave de servicio de Google Cloud (`key.json`) debe estar presente y contener las credenciales adecuadas para el cliente de Speech-to-Text.
